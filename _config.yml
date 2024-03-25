@@ -43,7 +43,7 @@ disqus-shortname: Alonso
 # Name of the Author
 author-name: Alonso Sanchez Alvis
 # URL for the Image of the Author
-author-image: /assets/images/Alonso_photo.jpg
+author-image: assets/images/Alonso_photo.jpg
 # 60 Words About the Author
 author-about: Bachiller en Ingenieria Geologica de la UNI.. A lo largo de los anios he desarrollado algunos proyectos de programacion en su mayoria aplicados a mineria y geologia.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
