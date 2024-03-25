@@ -1,10 +1,10 @@
 - name: BlocksFX
-  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
+  image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
   link:
   description: Software para modelamiento geologico, visualizacion 3D, importacion de datos, meshes, sondajes.   
 - name: QRReaderFX
   link:
-  image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
+  image: https://pixabay.com/photos/technology-network-mesh-network-6873010/
   description: Lector de QRs que se muestran en pantalla. Es una herramienta ligera, facil de instalar y usar. Lee QRs y los guarda para su posterior uso.
 - name: GisUtilsFX
   link:
