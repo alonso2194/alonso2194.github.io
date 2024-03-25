@@ -18,7 +18,7 @@ site-keywords: Site, Template, Theme
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://pixabay.com/photos/technology-network-mesh-network-6873010/
+heroimage: https://pixabay.com/get/g361f197fe55eb073813208bcc54e14182645448ca34e38ea4ac97dde01fc02bb6f67bc1f8b64f4e48c9625bec823b6a4542746657951814040723ac40c31d714_1280.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -43,7 +43,7 @@ disqus-shortname: Alonso
 # Name of the Author
 author-name: Alonso Sanchez Alvis
 # URL for the Image of the Author
-author-image: /WhatATheme/assets/images/Alonso_photo.jpg
+author-image: /assets/images/Alonso_photo.jpg
 # 60 Words About the Author
 author-about: Bachiller en Ingenieria Geologica de la UNI.. A lo largo de los anios he desarrollado algunos proyectos de programacion en su mayoria aplicados a mineria y geologia.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
